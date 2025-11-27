@@ -45,3 +45,5 @@ Here are some projects demonstrating practical application of security and engin
 
 * [cite_start]**LinkedIn:** [linkedin.com/in/rabech-pullichola](https://linkedin.com/in/rabech-pullichola) [cite: 2]
 * [cite_start]**Email:** rabechpullichola@gmail.com [cite: 2]
+
+* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
